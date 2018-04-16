@@ -1,4 +1,8 @@
-.icon-style {
+.delete-item {
   font-size: 1em;
-  color: crimson;
+  color: crimson !important;
+}
+
+.delete-item:hover {
+  cursor: pointer;
 }
